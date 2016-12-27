@@ -11,5 +11,5 @@ For detail description, please follow official howto at [https://github.com/iron
 
 ## Start
 
-`docker run -ti --rm --privileged sngrep`
+`docker run -ti --rm --privileged sngrep -r`
 
